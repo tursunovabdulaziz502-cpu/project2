@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 33.33%;
+    height: 300px;
+    object-fit: cover;
+    border: 5px solid darkred;
+}
