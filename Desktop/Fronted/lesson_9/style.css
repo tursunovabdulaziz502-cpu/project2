@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: gray;
+}
+.container
+{
+    background-color: palevioletred;
+    width: 600px;
+    height: 6000px;
+    margin: auto;
+    margin-top: 100px;
+    position: relative;
+}
+.pro{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    /* position:absolute; bu oz joyini yoqtgan holda joyini almashtira oladi  */
+    /* position: absolute; */
+    /* top: 50px; */
+    /* position: fixed; bu ekranga pin qilip qoyilgandek boladi page onga chapga tepa pastga sursak ham u qimilamaydi */
+    /* position: fixed; */
+    position: sticky;
+    left: 50px; 
+    top: 0;
+}
+.pro2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    /* Position relative be oz qolipini tashlagan holda boshqa joylarga kocha olish yordam beradi*/
+    /* position: relative; */
+    /* left: 50px; */
+    /* right: 50px; */
+    /* top: 100px; */
+    /* z-index: ; bu elementni qolgani elementlarga nisbatan kotaradi */
+    /* z-index: -1px; */
+    /* bottom: 50px; */
+}
+.pro3
+{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
