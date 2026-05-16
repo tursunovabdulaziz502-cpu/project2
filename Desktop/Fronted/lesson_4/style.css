@@ -1,0 +1,57 @@
+h1 {
+    /* text ga rang berish */
+    color: aqua;
+    /* hajimi */
+    font-size: 100px;
+    /* Orqasidaagi rang  */
+
+    background-color: black;
+    /* Shriftlar */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* yog'liroq qilish */
+    font-weight: 900;
+    /* joylashu uchun */
+    text-align: center;
+}
+
+span {
+    color: blue;
+    font-size: 10em;
+    font-weight: 900;
+    background-color: brown;
+}
+
+
+.a1{
+   background-color: aqua;
+   color: black; 
+
+}
+
+.a2{
+    background-color: blue;
+    color: white;
+
+}
+
+.a3{
+    background-color: blueviolet;
+    color: black;    
+
+}
+
+.a4{
+  background-color: brown;  
+  color: blue;
+
+}
+.a5{
+    background-color: blue;
+    color: brown;
+}
+
+h1 {
+    background-color: aqua;
+    color: blue;
+}
+

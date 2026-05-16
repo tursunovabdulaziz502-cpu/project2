@@ -1,0 +1,142 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.a1 {
+    background-color: black;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.a2 {
+    color: gold;
+    font-size: 50px;
+}
+
+.a3 {
+    color: grey;
+    font-size: 15px;
+}
+
+.a5 {
+    font-size: 22px;
+    margin: 16px 0 10px 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+/* Har bir kartochka */
+.card {
+    flex: 1;
+}
+
+.a6 {
+    background-color: rgb(255, 204, 213);
+    font-size: 60px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.a7 {
+    background-color: rgb(255, 204, 213);
+    font-size: 60px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* Nom va badge bir qatorda */
+.card-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.a8 {
+    font-size: 20px;
+}
+
+.a9 {
+    background-color: rgb(253, 201, 210);
+    color: red;
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 2px 8px;
+}
+
+.a11 {
+    background-color: rgb(220, 245, 245);
+    color: rgb(0, 180, 180);
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 2px 8px;
+}
+
+
+
+
+.a15 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+.a17
+{
+    margin-left: 750px;
+}
+
+.button
+{
+    margin-left: 820px;
+    background-color: yellow;
+    border-radius: 50%;
+    font-size: 25px;
+    width: 40px;
+    height: 40px;
+}
+
+.button1
+{
+    margin-left: 750px;
+    background-color: yellow;
+    border-radius: 50%;
+    font-size: 25px;
+    width: 40px;
+    height: 40px;
+}
+
+
+.card1 {
+    flex: 1;
+}
+.a18
+{
+    background-color: rgb(255, 204, 213);
+    width: 950px;
+    font-size: 60px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.a19
+{
+    background-color: rgb(94, 192, 225);
+    margin-left: 20px;
+    width: 950px;
+    font-size: 60px;
+    text-align: center;
+    padding: 30px 0;
+}
+.a20
+{
+    margin-left: 900px;
+}
